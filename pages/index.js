@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Brand by{' '}Stefan Crnobrnja.
+          Brand by{' '}<b>Stefan Crnobrnja</b>.
         </p>
       </main>
 
